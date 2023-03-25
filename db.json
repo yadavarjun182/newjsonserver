@@ -1,4 +1,19 @@
 {
+  "user": [
+    {
+      "id": 1,
+      "usename": "arjun",
+      "email": "arjun@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": 2,
+      "usename": "balu",
+      "email": "balu@gmail.com",
+      "password": "12345"
+    }
+  ],
+
   "movies": [
     {
       "id": 1,
