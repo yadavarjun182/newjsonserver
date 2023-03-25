@@ -34,6 +34,16 @@
       "genre": "Horror",
       "IMDB_Rating": 7.2,
       "ticket": 200
+    },
+    {
+      "id": 3,
+      "poster": "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
+      "title": "batman",
+      "director": "Francis Lawrence",
+      "year": 2007,
+      "genre": "Action",
+      "IMDB_Rating": 8.2,
+      "ticket": 200
     }
   ]
 }
