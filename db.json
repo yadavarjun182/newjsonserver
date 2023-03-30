@@ -45,5 +45,22 @@
       "IMDB_Rating": 8.2,
       "ticket": 200
     }
-  ]
+  ],
+
+  "income": [
+    {
+      "type":"income",
+      "category": "salary",
+      "amount": 20000,
+      "date": "2023-03-25"
+    },
+    {
+       "type":"income",
+      "category": "gift",
+      "amount": 200,
+      "date": "2023-03-26"
+    }
+  ],
+
+  "expense": []
 }
