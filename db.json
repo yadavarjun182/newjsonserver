@@ -49,18 +49,24 @@
 
   "income": [
     {
-      "type":"income",
+      "type": "income",
       "category": "salary",
       "amount": 20000,
       "date": "2023-03-25"
     },
     {
-       "type":"income",
+      "type": "income",
       "category": "gift",
       "amount": 200,
       "date": "2023-03-26"
     }
   ],
 
-  "expense": []
+  "expense": [],
+
+  "players": [
+    { "id": 1, "name": "arjun", "score": 15 },
+    { "id": 2, "name": "akshay", "score": 14 },
+    { "id": 3, "name": "suraj", "score": 10 }
+  ]
 }
